@@ -10,20 +10,12 @@ body {
 }
 
 
-
-
-
-/* h1 {
-    color: blue;
+.Online-class {
+    color: #ce3386;
     text-align: center;
 }
 
-h2 {
-    color: rgb(62, 193, 198);
+.Conclusion {
+    color: hsl(156, 75%, 41%);
     text-align: center;
-}
-
-h3 {
-    color: #0e0e0e;
-    text-align: center; */
 }
