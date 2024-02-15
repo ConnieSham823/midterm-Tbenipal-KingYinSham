@@ -29,6 +29,6 @@ February 15, 2024
 Sham King Yin, Tapshveer Benipal
 
 ## License ##
-TODO: WIT LicenseMIT
+MIT
 
 
