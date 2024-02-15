@@ -4,17 +4,7 @@ body {
     text-align: center;
 }
 
-h1 {
+.In-class {
     color: blue;
-    text-align: center;
-}
-
-h2 {
-    color: rgb(62, 193, 198);
-    text-align: center;
-}
-
-h3 {
-    color: #0e0e0e;
     text-align: center;
 }
