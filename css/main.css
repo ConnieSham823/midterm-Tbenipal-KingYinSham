@@ -5,6 +5,13 @@ body {
 }
 
 .In-class {
-    color: blue;
+    color: #2170d2;
     text-align: center;
 }
+
+.Online-class {
+    color: #ce3386;
+    text-align: center;
+}
+
+Online-class
