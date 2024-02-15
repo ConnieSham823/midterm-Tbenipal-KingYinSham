@@ -11,7 +11,7 @@ Sham King Yin for the point of In-person class should be better.
 
 Tbenipal disagree with In-person class is better. He think Online class should be better.
 
-## Installtion ##
+## Installation ##
 TODO: Describe the Installtion process
 
 ## Usage ##
